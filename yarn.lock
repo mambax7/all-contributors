@@ -4461,9 +4461,9 @@ imagemin@^6.0.0:
     pify "^4.0.1"
     replace-ext "^1.0.0"
 
-immer@8.0.1:
+immer@9.0.6:
   version "8.0.1"
-  resolved "https://registry.npmjs.org/immer/-/immer-8.0.1.tgz"
+  resolved "https://registry.npmjs.org/immer/-/immer-9.0.6.tgz"
 
 import-fresh@^2.0.0:
   version "2.0.0"
