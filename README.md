@@ -4,22 +4,6 @@
 
 > Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
 
-**Read our documentation in the following languages:**
-
-| Language                | Link                                                                 |
-|-------------------------|---------------------------------------------------------------------|
-| 한국어                  | [한국어](https://allcontributors.org/docs/ko/overview)              |
-| 中文                    | [中文](https://allcontributors.org/docs/zh-CN/overview)             |
-| Bahasa Indonesia        | [Bahasa Indonesia](https://allcontributors.org/docs/id/overview)    |
-| Deutsch                 | [Deutsch](https://allcontributors.org/docs/de/overview)             |
-| Polski                  | [Polski](https://allcontributors.org/docs/pl/overview)              |
-| English                 | [English](https://allcontributors.org/docs/en/overview)             |
-| Português do Brasil     | [Português do Brasil](https://allcontributors.org/docs/pt-BR/overview) |
-| Español                 | [Español](https://allcontributors.org/docs/es-ES/overview)          |
-| Français                | [Français](https://allcontributors.org/docs/fr/overview)            |
-| Русский                 | [Русский](https://allcontributors.org/docs/ru/overview)             |
-| 日本語                  | [日本語](https://allcontributors.org/docs/ja/overview)              |
-
 [![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/main.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/main)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
 [![All Contributors](https://img.shields.io/github/all-contributors/all-contributors/all-contributors?color=ee8449&style=flat-square)](#contributors-)
@@ -40,25 +24,25 @@ Below is an example of how using the all-contributors spec table can recognize a
 
 ![All Contributors Table Screenshot](src/assets/contributors-table-small.png)
 
-> You can use [the @all-contributors bot 🤖](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your open source projects
+> You can use [the @all-contributors bot 🤖](https://allcontributors.org/bot/overview) to automate acknowledging contributors to your open source projects
 
 ## Specification
 
-The [specification](https://allcontributors.org/docs/en/specification) is detailed on [allcontributors.org](https://allcontributors.org)
+The [specification](https://allcontributors.org/specification) is detailed on [allcontributors.org](https://allcontributors.org)
 
 ## Emoji key
 
-The [Emoji Key](https://allcontributors.org/docs/en/emoji-key) ✨ (and Contribution Types) can be found on [allcontributors.org](https://allcontributors.org)
+The [Emoji Key](https://allcontributors.org/emoji-key/) ✨ (and Contribution Types) can be found on [allcontributors.org](https://allcontributors.org)
 
 ## Contributing
 
 If you've ever wanted to contribute to open source, and a great cause, now is your chance!
 
-See the [contributing docs](https://allcontributors.org/docs/en/project/contribute) for more information
+See the [contributing docs](https://allcontributors.org/project/contribute) for more information
 
 ## Contributors ✨
 
-Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks go to these wonderful people ([emoji key](https://allcontributors.org/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
